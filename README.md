@@ -7,7 +7,7 @@ Aqui você encontrará vários projetos e exercícios desenvolvidos enquanto est
 
 ## Projetos disponíveis
 
-** Calculadora **  🧮
+**Calculadora**  🧮
 Uma calculadora simples que realiza as quatro operações básicas: adição, subtração, multiplicação e divisão.
 
 **Contador de Vogais** 🔤
