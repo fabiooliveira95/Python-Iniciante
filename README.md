@@ -29,3 +29,27 @@ Aqui você encontrará vários projetos e exercícios desenvolvidos enquanto est
 
    * Python 3.x
    * IDEs como VSCode, PyCharm ou Jupyter Notebook
+
+## Como rodar os projetos
+
+1.lone o repositório:
+```bash
+   git clone https://github.com/fabiooliveira95/Python-Iniciante.git
+```
+
+2.Acesse a pasta:
+```bash
+   cd Python-Iniciante
+```
+
+3.Execute o script desejado:
+```bash
+   python nome_do_arquivo.py
+```
+
+## Requisitos 🧰
+* Python 3.10 ou superior instalado na máquina.
+* Editor de código de sua preferência (Visual Studio Code, PyCharm, etc.)
+
+# Licença
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
