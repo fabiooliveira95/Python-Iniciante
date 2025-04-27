@@ -8,27 +8,27 @@ Aqui você encontrará vários projetos e exercícios desenvolvidos enquanto est
 ## Projetos disponíveis
 
 ** Calculadora **  🧮
-   Uma calculadora simples que realiza as quatro operações básicas: adição, subtração, multiplicação e divisão.
+Uma calculadora simples que realiza as quatro operações básicas: adição, subtração, multiplicação e divisão.
 
 **Contador de Vogais** 🔤
-   Um programa que conta quantas vogais existem em uma palavra ou frase fornecida pelo usuário.
+Um programa que conta quantas vogais existem em uma palavra ou frase fornecida pelo usuário.
 
 **Jogo da Adivinhação** 🎯
-   O computador escolhe um número aleatório, e o jogador precisa adivinhar qual é.
+O computador escolhe um número aleatório, e o jogador precisa adivinhar qual é.
 
 **Tabuada** ✏️
-   Geração automática da tabuada de um número escolhido pelo usuário.
+Geração automática da tabuada de um número escolhido pelo usuário.
 
 **Conversor de Temperatura** 🌡️
-   Conversão entre Celsius, Fahrenheit e Kelvin.
+Conversão entre Celsius, Fahrenheit e Kelvin.
 
 **Verificador de Número Primo** 🔎
-   Um script que verifica se um número informado é primo ou não.
+Um script que verifica se um número informado é primo ou não.
 
 ## Tecnologias usadas
 
-   * Python 3.x
-   * IDEs como VSCode, PyCharm ou Jupyter Notebook
+* Python 3.x
+* IDEs como VSCode, PyCharm ou Jupyter Notebook
 
 ## Como rodar os projetos
 
@@ -48,8 +48,15 @@ Aqui você encontrará vários projetos e exercícios desenvolvidos enquanto est
 ```
 
 ## Requisitos 🧰
-* Python 3.10 ou superior instalado na máquina.
-* Editor de código de sua preferência (Visual Studio Code, PyCharm, etc.)
+*  Python 3.10 ou superior instalado na máquina.
+*  Editor de código de sua preferência (Visual Studio Code, PyCharm, etc.)
 
 # Licença
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+
+## 📬 Contato
+
+Fábio Oliveira  
+🔗 [LinkedIn](https://www.linkedin.com/in/fabio-oliveira-araujo-cientista/)  
+📧 fabiooliveira0067@gmail.com
